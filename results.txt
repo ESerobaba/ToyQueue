@@ -1,0 +1,10 @@
+Toy -> id=3, name='кукла', frequency=6
+Toy -> id=1, name='конструктор', frequency=2
+Toy -> id=1, name='конструктор', frequency=2
+Toy -> id=2, name='робот', frequency=2
+Toy -> id=3, name='кукла', frequency=6
+Toy -> id=2, name='робот', frequency=2
+Toy -> id=3, name='кукла', frequency=6
+Toy -> id=3, name='кукла', frequency=6
+Toy -> id=1, name='конструктор', frequency=2
+Toy -> id=2, name='робот', frequency=2
